@@ -1,0 +1,5 @@
+.venv
+media
+output
+*.mp4
+__pycache__
