@@ -77,8 +77,4 @@ The CLI provides real-time logging, including:
 - Processing speed in FPS
 - Average number of detected trash items per frame
 
-## Author
-- **Your Name**
-- **Your Contact (Optional)**
-
 Happy Coding! 🚀
